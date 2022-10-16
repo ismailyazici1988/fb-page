@@ -5,7 +5,9 @@ import data from "../../assests/data";
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <div className="container_main">
+      {data.map((item)=><Card {...item}/>)}  
+    </div>
   )
 }
 
