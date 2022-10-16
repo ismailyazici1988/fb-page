@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fb-page/static/css/main.90762d13.css",
+    "main.js": "/fb-page/static/js/main.eb019ce4.js",
+    "static/media/jesus.png": "/fb-page/static/media/jesus.5d7f4c610be970461a5d.png",
+    "index.html": "/fb-page/index.html",
+    "main.90762d13.css.map": "/fb-page/static/css/main.90762d13.css.map",
+    "main.eb019ce4.js.map": "/fb-page/static/js/main.eb019ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90762d13.css",
+    "static/js/main.eb019ce4.js"
+  ]
+}
